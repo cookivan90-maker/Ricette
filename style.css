@@ -16,9 +16,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-/* =========================
+
+/* =========================================================
    HOME
-   ========================= */
+   ========================================================= */
 
 .home {
     position: relative;
@@ -28,9 +29,8 @@ body {
     background: #000;
 }
 
-/* =========================
-   BACKGROUND IMAGE
-   ========================= */
+
+/* BACKGROUND */
 
 .background {
     position: absolute;
@@ -42,9 +42,8 @@ body {
     background-repeat: no-repeat;
 }
 
-/* =========================
-   DARK OVERLAY
-   ========================= */
+
+/* OVERLAY */
 
 .overlay {
     position: absolute;
@@ -61,9 +60,8 @@ body {
         );
 }
 
-/* =========================
-   CONTENT
-   ========================= */
+
+/* HOME CONTENT */
 
 .content {
     position: relative;
@@ -75,26 +73,63 @@ body {
     flex-direction: column;
     justify-content: space-between;
 
-    padding: 14vh 6vw 5vh;
+    padding: 4vh 5vw 5vh;
 }
 
-/* =========================
-   HERO TITLE
-   ========================= */
+
+/* NAME */
+
+.site-name {
+    align-self: center;
+
+    position: relative;
+    z-index: 3;
+
+    color: #000;
+
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 1;
+
+    letter-spacing: 0.28em;
+    text-align: center;
+    text-transform: uppercase;
+
+    padding-bottom: 14px;
+}
+
+.site-name::after {
+    content: "";
+
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+
+    width: 42px;
+    height: 1px;
+
+    background: #000;
+
+    transform: translateX(-50%);
+}
+
+
+/* HERO TITLE */
 
 .hero-title {
+    align-self: center;
+    width: 100%;
+    max-width: 900px;
     text-align: center;
-
-    font-size: clamp(38px, 10vw, 110px);
-    line-height: 0.94;
-
+    font-size: clamp(42px, 10vw, 120px);
+    line-height: 0.9;
     font-weight: 400;
-    letter-spacing: -0.045em;
+    letter-spacing: -0.055em;
+    transform: translateY(30vh);
 }
 
-/* =========================
-   NAVIGATION
-   ========================= */
+
+/* HOME NAVIGATION */
 
 .navigation {
     width: 100%;
@@ -106,25 +141,19 @@ body {
     justify-content: space-between;
 
     width: 100%;
+    min-height: 62px;
 
     padding: 18px 0;
 
-    border-top: 1px solid rgba(255, 255, 255, 0.55);
+    border-top: 1px solid rgba(255, 255, 255, 0.65);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.65);
 
     color: #fff;
     text-decoration: none;
 
-    font-size: 14px;
+    font-size: 13px;
     font-weight: 400;
-    letter-spacing: 0.16em;
-
-    transition:
-        opacity 0.25s ease,
-        padding 0.25s ease;
-}
-
-.nav-link:last-child {
-    border-bottom: 1px solid rgba(255, 255, 255, 0.55);
+    letter-spacing: 0.18em;
 }
 
 .arrow {
@@ -133,46 +162,21 @@ body {
     letter-spacing: 0;
 }
 
-.nav-link:hover {
-    opacity: 0.7;
-    padding-left: 5px;
-}
 
-/* =========================
-   DESKTOP
-   ========================= */
-
-@media (min-width: 768px) {
-
-    .content {
-        padding: 10vh 5vw 6vh;
-    }
-
-    .hero-title {
-        font-size: clamp(60px, 8vw, 120px);
-    }
-
-    .navigation {
-        max-width: 700px;
-        margin: 0 auto;
-    }
-
-    .nav-link {
-        font-size: 15px;
-        padding: 20px 0;
-    }
-}
-
-
-/* =========================
+/* =========================================================
    RECIPES PAGE
-   ========================= */
+   ========================================================= */
 
 .recipes-page {
     min-height: 100svh;
+
     padding: 24px 6vw 50px;
+
     background: #000;
 }
+
+
+/* TOP NAVIGATION */
 
 .page-navigation {
     display: flex;
@@ -187,14 +191,12 @@ body {
     text-decoration: none;
 
     font-size: 12px;
+    font-weight: 400;
     letter-spacing: 0.14em;
-
-    transition: opacity 0.2s ease;
 }
 
-.page-navigation a:hover {
-    opacity: 0.55;
-}
+
+/* PAGE TITLE */
 
 .page-title {
     font-size: clamp(42px, 12vw, 100px);
@@ -202,8 +204,71 @@ body {
     line-height: 0.9;
     letter-spacing: -0.05em;
 
-    margin-bottom: 70px;
+    margin-bottom: 55px;
 }
+
+
+/* SEARCH BOX */
+
+.search-box {
+    display: flex;
+    align-items: center;
+
+    width: 100%;
+    height: 64px;
+
+    margin-bottom: 55px;
+
+    padding: 0 20px;
+
+    border: 1px solid rgba(255, 255, 255, 0.85);
+}
+
+
+/* SEARCH ICON */
+
+.search-icon {
+    width: 23px;
+    height: 23px;
+
+    flex: 0 0 auto;
+
+    margin-right: 16px;
+
+    fill: none;
+    stroke: #fff;
+    stroke-width: 1.6;
+}
+
+
+/* SEARCH INPUT */
+
+.search-input {
+    width: 100%;
+    height: 100%;
+
+    padding: 0;
+
+    border: 0;
+    outline: none;
+
+    background: transparent;
+    color: #fff;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0.06em;
+}
+
+.search-input::placeholder {
+    color: rgba(255, 255, 255, 0.5);
+    opacity: 1;
+}
+
+
+/* RECIPE LIST */
 
 .recipe-list {
     width: 100%;
@@ -221,36 +286,42 @@ body {
 
     font-size: clamp(20px, 5vw, 34px);
     font-weight: 400;
-
-    transition: opacity 0.2s ease;
 }
 
 .recipe-list a:last-child {
     border-bottom: 1px solid rgba(255, 255, 255, 0.25);
 }
 
-.recipe-list a:hover {
-    opacity: 0.55;
+
+/* NO RESULTS */
+
+.no-results {
+    padding: 20px 0;
+
+    color: rgba(255, 255, 255, 0.5);
+
+    font-size: 14px;
+    line-height: 1.5;
 }
 
-/* =========================
+
+/* =========================================================
    RECIPE PAGE
-   ========================= */
+   ========================================================= */
 
 .recipe-page {
     min-height: 100svh;
+
     padding: 24px 6vw 80px;
+
     background: #000;
     color: #fff;
 }
 
-/* NAVIGAZIONE */
+
+/* NAVIGATION */
 
 .recipe-page .page-navigation {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-
     margin-bottom: 80px;
 }
 
@@ -261,34 +332,33 @@ body {
     font-size: 12px;
     font-weight: 400;
     letter-spacing: 0.14em;
-
-    transition: opacity 0.2s ease;
 }
 
-.recipe-page .page-navigation a:hover {
-    opacity: 0.55;
-}
 
-/* CONTENUTO */
+/* RECIPE CONTENT */
 
 .recipe-content {
     width: 100%;
     max-width: 850px;
+
     margin: 0 auto;
 }
 
-/* TITOLO */
+
+/* TITLE */
 
 .recipe-content > h1 {
     margin-bottom: 110px;
 
     font-size: clamp(48px, 12vw, 110px);
     line-height: 0.9;
+
     font-weight: 400;
     letter-spacing: -0.055em;
 }
 
-/* SEZIONI PRINCIPALI */
+
+/* MAIN SECTIONS */
 
 .recipe-content > h2 {
     margin-top: 100px;
@@ -296,19 +366,19 @@ body {
 
     font-size: 14px;
     line-height: 1;
-    font-weight: 400;
 
+    font-weight: 400;
     letter-spacing: 0.18em;
+
     text-transform: uppercase;
 }
-
-/* PRIME SEZIONI */
 
 .recipe-content > h1 + h2 {
     margin-top: 0;
 }
 
-/* SOTTOTITOLI */
+
+/* SUBSECTIONS */
 
 .recipe-content h3 {
     margin-top: 45px;
@@ -323,30 +393,36 @@ body {
     text-transform: uppercase;
 }
 
-/* TESTO */
+
+/* TEXT */
 
 .recipe-content p {
     font-size: 17px;
     line-height: 1.65;
+
     font-weight: 400;
 
     color: rgba(255, 255, 255, 0.88);
 }
 
-/* NOTE / RESE */
+
+/* NOTES / YIELDS */
 
 .recipe-content h3 + p {
     color: rgba(255, 255, 255, 0.6);
+
     font-size: 14px;
     line-height: 1.6;
 }
 
-/* =========================
-   INGREDIENTI
-   ========================= */
+
+/* =========================================================
+   INGREDIENTS
+   ========================================================= */
 
 .recipe-content ul {
     list-style: none;
+
     padding: 0;
     margin: 0;
 }
@@ -354,6 +430,7 @@ body {
 .recipe-content li {
     display: flex;
     align-items: baseline;
+
     gap: 18px;
 
     padding: 15px 0;
@@ -364,13 +441,10 @@ body {
     line-height: 1.4;
 }
 
-.recipe-content li::first-letter {
-    color: #fff;
-}
 
-/* =========================
-   PASSAGGI
-   ========================= */
+/* =========================================================
+   RECIPE STEPS
+   ========================================================= */
 
 .recipe-step {
     display: grid;
@@ -419,27 +493,92 @@ body {
     color: rgba(255, 255, 255, 0.88);
 }
 
-/* =========================
-   NOTE FINALI
-   ========================= */
+
+/* =========================================================
+   FINAL NOTES
+   ========================================================= */
 
 .recipe-content > h2:last-of-type {
     margin-top: 120px;
 }
 
 .recipe-content > h2:last-of-type ~ p {
+    margin-bottom: 20px;
+
     font-size: 14px;
     line-height: 1.65;
-    color: rgba(255, 255, 255, 0.6);
 
-    margin-bottom: 20px;
+    color: rgba(255, 255, 255, 0.6);
 }
 
-/* =========================
+
+/* =========================================================
    DESKTOP
-   ========================= */
+   ========================================================= */
 
 @media (min-width: 768px) {
+
+    /* HOME */
+
+    .content {
+        padding: 4vh 4vw 5vh;
+    }
+
+    .site-name {
+        font-size: 12px;
+        letter-spacing: 0.32em;
+    }
+
+    .hero-title {
+        font-size: clamp(70px, 8vw, 125px);
+    }
+
+    .navigation {
+        max-width: 900px;
+        margin: 0 auto;
+    }
+
+    .nav-link {
+        min-height: 72px;
+        padding: 20px 0;
+
+        font-size: 14px;
+    }
+
+
+    /* RECIPES */
+
+    .recipes-page {
+        padding: 30px 6vw 70px;
+    }
+
+    .page-navigation {
+        margin-bottom: 100px;
+    }
+
+    .page-title {
+        margin-bottom: 60px;
+    }
+
+    .search-box {
+        height: 70px;
+
+        margin-bottom: 60px;
+
+        padding: 0 22px;
+    }
+
+    .search-input {
+        font-size: 16px;
+    }
+
+    .search-icon {
+        width: 24px;
+        height: 24px;
+    }
+
+
+    /* RECIPE */
 
     .recipe-page {
         padding: 30px 6vw 100px;
