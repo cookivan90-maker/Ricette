@@ -27,4 +27,4 @@ Togli il coperchio, alza leggermente la fiamma, unisci lo zucchero di canna e me
 Versa l'aceto balsamico e il Mirin. Fai sobbollire a fuoco dolce finché il liquido si riduce, creando uno sciroppo scuro che avvolge le cipolle.
 
 **4. Servizio**  
-Lasciale intiepidire o riposare in frigorifero. Servile a temperatura ambiente o leggermente tiepide sopra la battuta di Fassona all'interno del bun.
+Lasciale intiepidire o riposare in frigorifero. Servile a temperatura ambiente o leggermente tiepide
