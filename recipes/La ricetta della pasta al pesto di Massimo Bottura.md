@@ -1,4 +1,4 @@
-# La ricetta della pasta al pesto di Massimo Bottura
+Pasta al pesto di Massimo Bottura
 
 ## Pesto di menta e briciole
 
