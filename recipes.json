@@ -28,10 +28,6 @@
         "file": "Gyoza di salsiccia di Bra.md"
     },
     {
-        "title": "La ricetta della pasta al pesto di Massimo Bottura",
-        "file": "La ricetta della pasta al pesto di Massimo Bottura.md"
-    },
-    {
         "title": "Lasagna alla bolognese",
         "file": "Lasagna alla bolognese.md"
     },
@@ -42,6 +38,10 @@
     {
         "title": "Patate fritte all’olandese",
         "file": "Patate fritte all’olandese.md"
+    },
+    {
+        "title": "Pesto di Massimo Bottura",
+        "file": "Pesto di Massimo Bottura.md"
     },
     {
         "title": "Phad Thai",
