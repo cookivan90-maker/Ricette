@@ -16,7 +16,8 @@
 - 1 pezzo di alga kombu essiccata
 - 1 confezione funghi secchi
  
-##Per le uova
+## Per le uova
+
 - 2 uova
 - 50 ml soia
 - 20 ml mirin
@@ -34,7 +35,7 @@ Porta a bollore, quindi abbassa la fiamma al minimo e lascia cuocere per circa 4
 Al termine della cottura, filtra il brodo, se lo desideri. Aggiungi il miso e stempera accuratamente fino a scioglierlo del tutto. Assaggia e, se necessario, aggiungi altra salsa di soia per regolare la sapidità.
 
 
-### Procedineno uova
+### Procedimento uova
 Porta a ebollizione acqua versa delicatamente le uova dentro cuici 6 minuti e scolale in acqua e ghiaccio.
 Una volta sbucciate metterle nella marinatura
 ## Rame
@@ -70,6 +71,7 @@ Distribuisci i noodles nelle ciotole e versaci sopra il brodo bollente. Guarnisc
 
 - Tempo di cottura del ramen: 40 minuti
 - Tempo di preparazione del brodo: 4 ore
-
+                         
 ## Note
-il brodo deve andsre almeno 2 ore, le uova marinate almeno 12 ore sarebbe top 
+il brodo deve andare almeno 2 ore per fare veloce, diversmaente da 4 a 8, l
+Le uova marinate almeno 12 ore sarebbe Top!
