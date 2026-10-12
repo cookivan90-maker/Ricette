@@ -5,7 +5,7 @@
 ### Ingredienti
 
 - 700 ml di acqua
-- 40 g di miso
+- 50 g di miso
 - 20 g di mirin
 - 40 ml di salsa di soia
 - 2 cucchiai di olio di semi
@@ -14,19 +14,30 @@
 - 1 carota
 - 2 cm di radice di zenzero fresca
 - 1 pezzo di alga kombu essiccata
+- 1 confezione funghi secchi
+ 
+##Per le uova
+- 2 uova
+- 50 ml soia
+- 20 ml mirin
+- 20 ml acqua
 
-### Procedimento
+### Procedimento Brodo
 
 **1. Preparazione del brodo**  
 Versa in una pentola capiente tutti gli ingredienti per il brodo, tranne il miso: acqua, mirin, salsa di soia, olio di semi, aglio, sedano, carota, zenzero e alga kombu.
-
+fai ammollare i funghi prima di inserirli nel brodo 
 **2. Cottura**  
 Porta a bollore, quindi abbassa la fiamma al minimo e lascia cuocere per circa 4 ore.
 
 **3. Filtraggio e miso**  
 Al termine della cottura, filtra il brodo, se lo desideri. Aggiungi il miso e stempera accuratamente fino a scioglierlo del tutto. Assaggia e, se necessario, aggiungi altra salsa di soia per regolare la sapidità.
 
-## Ramen
+
+### Procedineno uova
+Porta a ebollizione acqua versa delicatamente le uova dentro cuici 6 minuti e scolale in acqua e ghiaccio.
+Una volta sbucciate metterle nella marinatura
+## Rame
 
 ### Ingredienti
 
@@ -59,3 +70,6 @@ Distribuisci i noodles nelle ciotole e versaci sopra il brodo bollente. Guarnisc
 
 - Tempo di cottura del ramen: 40 minuti
 - Tempo di preparazione del brodo: 4 ore
+
+## Note
+il brodo deve andsre almeno 2 ore, le uova marinate almeno 12 ore sarebbe top 
