@@ -29,22 +29,25 @@ Taglia le pere a pezzi piccoli.
 **3. Mescolare uova, zucchero e olio**  
 Rompi le uova in una ciotola, aggiungi lo zucchero e l'olio e mescola.
 
-**4. Aggiungere il lievito**  
+**4. Aggiungere la farina**
+Aggiungi la farina e mescola
+
+**5. Aggiungere il lievito**  
 Aggiungi il lievito e mescola.
 
-**5. Aggiungere il latte**  
+**6. Aggiungere il latte**  
 Aggiungi il latte e mescola.
 
-**6. Aggiungere le pere**  
+**7. Aggiungere le pere**  
 Aggiungi le pere e mescola.
 
-**7. Aggiungere il cioccolato**  
+**8. Aggiungere il cioccolato**  
 Aggiungi il cioccolato e mescola.
 
-**8. Versare il composto nello stampo**  
+**9. Versare il composto nello stampo**  
 Inserisci il composto nella teglia a cerniera con la base ricoperta da carta da forno.
 
-**9. Aggiungere le gocce di cioccolato**  
+**10. Aggiungere le gocce di cioccolato**  
 Aggiungi le gocce di cioccolato. Se vuoi farle rimanere in superficie, infarinale leggermente.
 
 ## Cottura
