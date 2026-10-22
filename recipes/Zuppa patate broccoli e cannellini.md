@@ -13,7 +13,7 @@
 ### Procedimento
 
 **1. Bollitura dell'acqua**  
-Porta l'acqua a ebollizione.
+Porta il brodo a ebollizione.
 
 **2. Cottura di patate e broccoli**  
 Aggiungi le patate e i broccoli, metti il coperchio e cuoci per 15 minuti.
