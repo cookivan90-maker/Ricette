@@ -6,11 +6,6 @@
 
 10–12 fagottini.
 
-### Tempi e temperatura
-
-- Cottura: 12–16 minuti
-- Temperatura: 180 °C
-
 ### Ingredienti
 
 *Le quantità in grammi sono conversioni indicative della ricetta originale.*
