@@ -42,4 +42,4 @@ Riscalda l'olio di peperoncino in una padella antiaderente a fuoco medio.
 
 ## Fonte
 
-[Video originale su Instagram](https://www.instagram.com/reel/DTzc8wWD033/?dlrf=d3h2ZjRiMWgxcmxk)
+[Video originale su Instagram](https://www.instagram.com/reel/DeUX8-QI3PM/?rpxt=bmNrMWxwOG1tb2R1)
