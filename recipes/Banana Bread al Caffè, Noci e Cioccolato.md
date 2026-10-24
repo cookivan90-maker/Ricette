@@ -4,11 +4,11 @@
 
 ### Resa
 
-1 plumcake da 30 × 10 cm.
+Stampo plumcake da 30 × 10 cm.
 
 ### Ingredienti
 
-- 400 g di polpa di banana molto matura
+- 3 banane molto mature (meglio con lq buccia nera)
 - 260 g di farina 00
 - 150 g di zucchero semolato
 - 20 g di miele
@@ -20,13 +20,15 @@
 - 1 g di sale
 - 1 g di cannella in polvere
 - Semi di 1 bacca di vaniglia
-- 100 g di noci o noci pecan tritate grossolanamente
+- 100 g di noci o noci pecan tritate grossolanamente (facoltative)
 - 100 g di gocce di cioccolato fondente (facoltative)
 
 ### Procedimento
 
 **1. Preparazione degli ingredienti**  
-Schiaccia le banane con una forchetta fino a ottenere una purea densa, lasciando soltanto piccoli pezzetti. Pesane 400 g. Trita grossolanamente le noci. Prepara il caffè espresso e lascialo raffreddare completamente.
+Schiaccia le banane con una forchetta fino a ottenere una purea densa, lasciando soltanto piccoli pezzetti. 
+trta grossolanamente le noci. 
+Prepara il caffè espresso e lascialo raffreddare completamente.
 
 **2. Preparazione del composto umido**  
 In una ciotola capiente mescola le uova con lo zucchero, il miele e i semi della bacca di vaniglia, utilizzando una frusta a mano senza montare. Aggiungi la purea di banana, l'olio di semi e il caffè freddo. Mescola fino a ottenere un composto omogeneo.
