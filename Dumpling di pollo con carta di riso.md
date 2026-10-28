@@ -1,4 +1,4 @@
-# Rice Paper Chicken Dumplings – Dumpling di pollo con carta di riso
+# Dumpling di pollo con carta di riso
 
 ## Ingredienti
 
