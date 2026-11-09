@@ -1,6 +1,4 @@
----
-categoria: Ravioli e dumpling
----
+<!-- categoria: Ravioli e dumpling -->
 
 # Rice Paper Curry Puffs – Fagottini al curry in friggitrice ad aria
 

@@ -1,6 +1,4 @@
----
-categoria: Ravioli e dumpling
----
+<!-- categoria: Ravioli e dumpling -->
 
 # Gyoza di salsiccia di Bra
 

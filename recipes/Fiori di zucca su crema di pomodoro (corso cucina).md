@@ -1,6 +1,4 @@
----
-categoria: Antipasti e secondi
----
+<!-- categoria: Antipasti e secondi -->
 
 # Fiori di zucca su crema di pomodoro (corso cucina)
 

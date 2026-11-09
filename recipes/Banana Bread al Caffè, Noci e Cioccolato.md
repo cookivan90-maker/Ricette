@@ -1,6 +1,4 @@
----
-categoria: Dolci
----
+<!-- categoria: Dolci -->
 
 # Banana Bread al Caffè, Noci e Cioccolato
 

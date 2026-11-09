@@ -1,6 +1,4 @@
----
-categoria: Pane e lievitati
----
+<!-- categoria: Pane e lievitati -->
 
 # Buns farina 00
 

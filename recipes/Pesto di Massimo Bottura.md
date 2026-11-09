@@ -1,6 +1,4 @@
----
-categoria: Primi e noodles
----
+<!-- categoria: Primi e noodles -->
 
 Pasta al pesto di Massimo Bottura
 

@@ -1,4 +1,5 @@
 import json
+import re
 from pathlib import Path
 
 recipes_folder = Path("recipes")
@@ -6,22 +7,13 @@ recipes = []
 
 
 def read_categories(text):
-    """Legge la riga 'categoria:' dall'intestazione tra --- in cima al file."""
-    lines = text.lstrip("﻿").splitlines()
+    """Legge il commento <!-- categoria: ... --> in cima al file."""
+    match = re.search(r"<!--\s*categori[ae]\s*:\s*(.*?)\s*-->", text, re.IGNORECASE)
 
-    if not lines or lines[0].strip() != "---":
+    if not match:
         return []
 
-    for line in lines[1:]:
-        if line.strip() == "---":
-            break
-
-        key, _, value = line.partition(":")
-
-        if key.strip().lower() in ("categoria", "categorie"):
-            return [c.strip() for c in value.split(",") if c.strip()]
-
-    return []
+    return [c.strip() for c in match.group(1).split(",") if c.strip()]
 
 
 for file in recipes_folder.glob("*.md"):

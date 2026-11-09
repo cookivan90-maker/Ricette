@@ -1,6 +1,4 @@
----
-categoria: Zuppe e vellutate
----
+<!-- categoria: Zuppe e vellutate -->
 
 # Vellutata di piselli
 

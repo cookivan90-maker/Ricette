@@ -1,6 +1,4 @@
----
-categoria: Contorni
----
+<!-- categoria: Contorni -->
 
 # Patate fritte all’olandese
 

@@ -1,6 +1,4 @@
----
-categoria: Primi e noodles
----
+<!-- categoria: Primi e noodles -->
 
 # Lasagna alla bolognese
 

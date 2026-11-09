@@ -1,6 +1,4 @@
----
-categoria: Dolci
----
+<!-- categoria: Dolci -->
 
 # Torta Pere e Cioccolato
 

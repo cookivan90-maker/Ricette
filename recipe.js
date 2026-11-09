@@ -16,10 +16,10 @@ fetch(recipeFile)
 
         const recipeContent = document.getElementById("recipe-content");
 
-        // Toglie l'intestazione con la categoria (righe tra --- in cima al file)
+        // Toglie il commento con la categoria in cima al file
         const body = markdown
             .replace(/^﻿/, "")
-            .replace(/^---\s*\r?\n[\s\S]*?\r?\n---\s*(\r?\n|$)/, "");
+            .replace(/^\s*<!--\s*categori[ae]\s*:[\s\S]*?-->\s*/i, "");
 
         recipeContent.innerHTML = marked.parse(body);
 
