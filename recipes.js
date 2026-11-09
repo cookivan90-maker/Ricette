@@ -86,19 +86,20 @@ function renderCategories() {
         return ia - ib;
     });
 
-    categories.forEach(category => {
+    categories.forEach((category, index) => {
         const link = document.createElement("a");
         link.className = "category-link";
         link.href = `recipes.html?categoria=${encodeURIComponent(category)}`;
 
+        const number = document.createElement("span");
+        number.className = "category-number";
+        number.textContent = String(index + 1).padStart(2, "0");
+
         const name = document.createElement("span");
+        name.className = "category-title";
         name.textContent = category;
 
-        const count = document.createElement("span");
-        count.className = "category-count";
-        count.textContent = counts[category];
-
-        link.append(name, count);
+        link.append(number, name);
         recipeList.appendChild(link);
     });
 }
