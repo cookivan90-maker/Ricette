@@ -1,3 +1,7 @@
+---
+categoria: Primi e noodles
+---
+
 # Lasagna alla bolognese
 
 ## Ragù

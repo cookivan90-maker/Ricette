@@ -1,3 +1,7 @@
+---
+categoria: Zuppe e vellutate
+---
+
 # Vellutata di piselli
 
 ## Dosi

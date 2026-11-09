@@ -1,3 +1,7 @@
+---
+categoria: Salse e conserve
+---
+
 # Caramello alla Salsa di Soia
 
 ## Caramello alla Salsa di Soia

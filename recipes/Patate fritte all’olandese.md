@@ -1,3 +1,7 @@
+---
+categoria: Contorni
+---
+
 # Patate fritte all’olandese
 
 ## Preparazione

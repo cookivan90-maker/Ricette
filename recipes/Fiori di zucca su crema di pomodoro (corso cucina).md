@@ -1,3 +1,7 @@
+---
+categoria: Antipasti e secondi
+---
+
 # Fiori di zucca su crema di pomodoro (corso cucina)
 
 ## Fiori di zucca ripieni di gambero e burrata

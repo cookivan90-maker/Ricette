@@ -1,3 +1,7 @@
+---
+categoria: Dolci
+---
+
 # Torta Pere e Cioccolato
 
 ## Torta Pere e Cioccolato

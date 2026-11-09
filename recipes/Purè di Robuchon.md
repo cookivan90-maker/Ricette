@@ -1,3 +1,7 @@
+---
+categoria: Contorni
+---
+
 # Purè di Robuchon
 
 ## Preparazione

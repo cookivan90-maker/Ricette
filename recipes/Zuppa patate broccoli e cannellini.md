@@ -1,3 +1,7 @@
+---
+categoria: Zuppe e vellutate
+---
+
 # Zuppa patate broccoli e cannellini
 
 ## Zuppa

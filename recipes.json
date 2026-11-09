@@ -1,98 +1,171 @@
 [
     {
         "title": "Banana Bread al Caffè, Noci e Cioccolato",
-        "file": "Banana Bread al Caffè, Noci e Cioccolato.md"
+        "file": "Banana Bread al Caffè, Noci e Cioccolato.md",
+        "categories": [
+            "Dolci"
+        ]
     },
     {
         "title": "Buns farina 00",
-        "file": "Buns farina 00.md"
+        "file": "Buns farina 00.md",
+        "categories": [
+            "Pane e lievitati"
+        ]
     },
     {
         "title": "Buns Farina Manitoba",
-        "file": "Buns Farina Manitoba.md"
+        "file": "Buns Farina Manitoba.md",
+        "categories": [
+            "Pane e lievitati"
+        ]
     },
     {
         "title": "Caramello alla Salsa di Soia",
-        "file": "Caramello alla Salsa di Soia.md"
+        "file": "Caramello alla Salsa di Soia.md",
+        "categories": [
+            "Salse e conserve"
+        ]
     },
     {
         "title": "Cipolle Rosse Caramellate al Balsamico e Mirin",
-        "file": "Cipolle Rosse Caramellate al Balsamico e Mirin.md"
+        "file": "Cipolle Rosse Caramellate al Balsamico e Mirin.md",
+        "categories": [
+            "Contorni",
+            "Salse e conserve"
+        ]
     },
     {
         "title": "Dumpling di pollo e verdure con carta di riso",
-        "file": "Dumpling di pollo e verdure con carta di riso.md"
+        "file": "Dumpling di pollo e verdure con carta di riso.md",
+        "categories": [
+            "Ravioli e dumpling"
+        ]
     },
     {
         "title": "Fiori di zucca su crema di pomodoro (corso cucina)",
-        "file": "Fiori di zucca su crema di pomodoro (corso cucina).md"
+        "file": "Fiori di zucca su crema di pomodoro (corso cucina).md",
+        "categories": [
+            "Antipasti e secondi"
+        ]
     },
     {
         "title": "Giardiniera Croccante al Mirin, Sedano, Carote, Peperoni & Acciughe Rizzoli",
-        "file": "Giardiniera Croccante al Mirin, Sedano, Carote, Peperoni & Acciughe Rizzoli.md"
+        "file": "Giardiniera Croccante al Mirin, Sedano, Carote, Peperoni & Acciughe Rizzoli.md",
+        "categories": [
+            "Salse e conserve"
+        ]
     },
     {
         "title": "Gratin dauphinois",
-        "file": "Gratin dauphinois.md"
+        "file": "Gratin dauphinois.md",
+        "categories": [
+            "Contorni"
+        ]
     },
     {
         "title": "Gyoza di salsiccia di Bra",
-        "file": "Gyoza di salsiccia di Bra.md"
+        "file": "Gyoza di salsiccia di Bra.md",
+        "categories": [
+            "Ravioli e dumpling"
+        ]
     },
     {
         "title": "Lasagna alla bolognese",
-        "file": "Lasagna alla bolognese.md"
+        "file": "Lasagna alla bolognese.md",
+        "categories": [
+            "Primi e noodles"
+        ]
     },
     {
         "title": "Patate al forno",
-        "file": "Patate al forno.md"
+        "file": "Patate al forno.md",
+        "categories": [
+            "Contorni"
+        ]
     },
     {
         "title": "Patate fritte all’olandese",
-        "file": "Patate fritte all’olandese.md"
+        "file": "Patate fritte all’olandese.md",
+        "categories": [
+            "Contorni"
+        ]
     },
     {
         "title": "Pesto di Massimo Bottura",
-        "file": "Pesto di Massimo Bottura.md"
+        "file": "Pesto di Massimo Bottura.md",
+        "categories": [
+            "Primi e noodles"
+        ]
     },
     {
         "title": "Phad Thai",
-        "file": "Phad Thai.md"
+        "file": "Phad Thai.md",
+        "categories": [
+            "Primi e noodles"
+        ]
     },
     {
         "title": "Purè di Robuchon",
-        "file": "Purè di Robuchon.md"
+        "file": "Purè di Robuchon.md",
+        "categories": [
+            "Contorni"
+        ]
     },
     {
         "title": "Ramen Classico",
-        "file": "Ramen Classico.md"
+        "file": "Ramen Classico.md",
+        "categories": [
+            "Primi e noodles"
+        ]
     },
     {
         "title": "Rice Paper Curry Puffs – Fagottini al curry in friggitrice ad aria",
-        "file": "Rice Paper Curry Puffs – Fagottini al curry in friggitrice ad aria.md"
+        "file": "Rice Paper Curry Puffs – Fagottini al curry in friggitrice ad aria.md",
+        "categories": [
+            "Ravioli e dumpling"
+        ]
     },
     {
         "title": "torta di mele",
-        "file": "torta di mele.md"
+        "file": "torta di mele.md",
+        "categories": [
+            "Dolci"
+        ]
     },
     {
         "title": "Torta Pere e Cioccolato",
-        "file": "Torta Pere e Cioccolato.md"
+        "file": "Torta Pere e Cioccolato.md",
+        "categories": [
+            "Dolci"
+        ]
     },
     {
         "title": "Tortino fit cioccolato",
-        "file": "Tortino fit cioccolato.md"
+        "file": "Tortino fit cioccolato.md",
+        "categories": [
+            "Dolci"
+        ]
     },
     {
         "title": "Uova strapazzate con formaggio",
-        "file": "Uova strapazzate con formaggio.md"
+        "file": "Uova strapazzate con formaggio.md",
+        "categories": [
+            "Antipasti e secondi"
+        ]
     },
     {
         "title": "Vellutata di piselli",
-        "file": "Vellutata di piselli.md"
+        "file": "Vellutata di piselli.md",
+        "categories": [
+            "Zuppe e vellutate"
+        ]
     },
     {
         "title": "Zuppa patate broccoli e cannellini",
-        "file": "Zuppa patate broccoli e cannellini.md"
+        "file": "Zuppa patate broccoli e cannellini.md",
+        "categories": [
+            "Zuppe e vellutate"
+        ]
     }
 ]

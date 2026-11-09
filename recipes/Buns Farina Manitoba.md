@@ -1,3 +1,7 @@
+---
+categoria: Pane e lievitati
+---
+
 # Buns Farina Manitoba
 
 ## Buns Farina Manitoba

@@ -1,3 +1,7 @@
+---
+categoria: Contorni, Salse e conserve
+---
+
 # Cipolle Rosse Caramellate al Balsamico e Mirin
 
 ## Cipolle Rosse Caramellate

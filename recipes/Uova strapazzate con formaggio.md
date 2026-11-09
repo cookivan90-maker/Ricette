@@ -1,3 +1,7 @@
+---
+categoria: Antipasti e secondi
+---
+
 # Uova strapazzate con formaggio
 
 ## Ingredienti

@@ -1,3 +1,7 @@
+---
+categoria: Dolci
+---
+
 # Torta di mele
 
 ## Torta di mele

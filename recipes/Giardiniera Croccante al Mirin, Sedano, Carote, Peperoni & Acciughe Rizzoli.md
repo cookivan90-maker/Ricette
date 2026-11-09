@@ -1,3 +1,7 @@
+---
+categoria: Salse e conserve
+---
+
 # Giardiniera Croccante al Mirin, Sedano, Carote, Peperoni & Acciughe Rizzoli
 
 ## Giardiniera

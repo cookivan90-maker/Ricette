@@ -1,3 +1,7 @@
+---
+categoria: Ravioli e dumpling
+---
+
 # Dumpling di pollo e verdure con carta di riso
 
 ## Ingredienti

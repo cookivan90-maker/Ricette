@@ -1,3 +1,7 @@
+---
+categoria: Ravioli e dumpling
+---
+
 # Gyoza di salsiccia di Bra
 
 ## Impasto Gyoza

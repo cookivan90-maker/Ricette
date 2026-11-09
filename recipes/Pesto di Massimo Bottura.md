@@ -1,3 +1,7 @@
+---
+categoria: Primi e noodles
+---
+
 Pasta al pesto di Massimo Bottura
 
 ## Pesto di menta e briciole

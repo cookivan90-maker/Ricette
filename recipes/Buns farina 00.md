@@ -1,3 +1,7 @@
+---
+categoria: Pane e lievitati
+---
+
 # Buns farina 00
 
 ## Buns al Tangzhong

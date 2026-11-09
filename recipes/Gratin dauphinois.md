@@ -1,3 +1,7 @@
+---
+categoria: Contorni
+---
+
 # Gratin dauphinois
 
 ## Preparazione

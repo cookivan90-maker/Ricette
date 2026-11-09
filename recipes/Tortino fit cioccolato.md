@@ -1,3 +1,7 @@
+---
+categoria: Dolci
+---
+
 # Tortino fit cioccolato
 
 ## Tortini

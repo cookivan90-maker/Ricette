@@ -1,3 +1,7 @@
+---
+categoria: Dolci
+---
+
 # Banana Bread al Caffè, Noci e Cioccolato
 
 ## Preparazione

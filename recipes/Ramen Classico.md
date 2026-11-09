@@ -1,3 +1,7 @@
+---
+categoria: Primi e noodles
+---
+
 # Ramen Classico
 
 ## Brodo

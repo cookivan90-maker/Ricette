@@ -16,7 +16,12 @@ fetch(recipeFile)
 
         const recipeContent = document.getElementById("recipe-content");
 
-        recipeContent.innerHTML = marked.parse(markdown);
+        // Toglie l'intestazione con la categoria (righe tra --- in cima al file)
+        const body = markdown
+            .replace(/^﻿/, "")
+            .replace(/^---\s*\r?\n[\s\S]*?\r?\n---\s*(\r?\n|$)/, "");
+
+        recipeContent.innerHTML = marked.parse(body);
 
         // Trasforma i paragrafi numerati in blocchi "step"
         const paragraphs = recipeContent.querySelectorAll("p");

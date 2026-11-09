@@ -293,6 +293,56 @@ body {
 }
 
 
+/* LIST HEADING (CATEGORIE / NOME CATEGORIA / RISULTATI) */
+
+.list-heading {
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+
+    margin-bottom: 28px;
+}
+
+.list-heading[hidden] {
+    display: none;
+}
+
+.category-name {
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.category-back {
+    color: #fff;
+    text-decoration: none;
+
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0.14em;
+}
+
+
+/* CATEGORY MENU */
+
+.recipe-list a.category-link {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.category-count {
+    font-size: 14px;
+    letter-spacing: 0.1em;
+
+    color: rgba(255, 255, 255, 0.45);
+}
+
+
 /* NO RESULTS */
 
 .no-results {
